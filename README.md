@@ -3,7 +3,7 @@
 
 <div align="center">
   <p align="center">
-    <a href="https://david-val.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-david--val.vercel.app-D4AF37?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
+    <a href="https://zevbii.com"><img src="https://img.shields.io/badge/Portfolio-zevbii.com-D4AF37?style=for-the-badge&logo=vercel&logoColor=white&labelColor=111111" alt="Portfolio" /></a>
     <a href="https://linkedin.com/in/david-uyi-val-izevbigie"><img src="https://img.shields.io/badge/LinkedIn-David%20Val--Izevbigie-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn" /></a>
     <a href="mailto:valizevbigiedavid@gmail.com"><img src="https://img.shields.io/badge/Email-valizevbigiedavid%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111" alt="Email" /></a>
   </p>
@@ -121,7 +121,7 @@ I specialize in **multi-tenant SaaS architectures, fintech billing/ledger infras
   <tr>
     <td width="50%" valign="top">
       <h4>💬 <a href="https://popnchats.com">PopnChat</a></h4>
-      <p>A real-time messaging and fintech platform with integrated wallet ledger. Processed over <b>₦600,000 in transactions</b> within hours of launch.</p>
+      <p>A real-time messaging and fintech platform with integrated wallet ledger. Processed over <b>₦1,000,000+ in transactions</b> within hours of launch. Integrated PSPs, AML & KYC platforms, and AI chatbots.</p>
       <p>
         <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/WebSockets-010101?style=flat" />
@@ -166,7 +166,7 @@ I specialize in **multi-tenant SaaS architectures, fintech billing/ledger infras
 
 - **Email**: [valizevbigiedavid@gmail.com](mailto:valizevbigiedavid@gmail.com)
 - **LinkedIn**: [David Uyi Val-Izevbigie](https://linkedin.com/in/david-uyi-val-izevbigie)
-- **Personal Website**: [david-val.vercel.app](https://david-val.vercel.app/)
+- **Personal Website**: [zevbii.com](https://zevbii.com)
 - **GitHub**: [@Val-senseisama](https://github.com/Val-senseisama)
 
 ---
